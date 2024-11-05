@@ -1,4 +1,4 @@
-# Netliify Link:
+# Netlify Link:
 
 https://capable-sunburst-7abf16.netlify.app/
 
